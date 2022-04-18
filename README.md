@@ -2,7 +2,7 @@
 
 <!-- nlOKVAhVazSMzLvtIj-->
 
-<img align='right' src="https://media.giphy.com/media/nlOKVAhVazSMzLvtIj/giphy.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/nlOKVAhVazSMzLvtIj/giphy.gif" width="300">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hugomartin-menz/"><img src="https://img.shields.io/badge/-Hugo%20Martin%20Mendez-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
