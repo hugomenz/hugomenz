@@ -15,7 +15,7 @@
 
 - 💼 Ex-Mechanical Designer Engineer
 - 💻 Passionate about programming (or atleast trying it)
-- 🎼 I play some instruments like Guitar and Piano in my free time
+- 🎼 I play some instruments like Guitar, Piano, [Timple](https://en.wiktionary.org/wiki/timple) and [Tres Cubano](https://en.wikipedia.org/wiki/Tres_(instrument)) in my free time
 - 🎓 Front End expert on progress
 
 
