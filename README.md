@@ -22,6 +22,8 @@
 
 ### Languages
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CCS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
 ### Libraries and Frameworks
