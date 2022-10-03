@@ -51,12 +51,10 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
     
 ### Libraries and Frameworks
- ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
- ![.Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
- ![Scikit-Learn](https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikitlearn)
- ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
- ![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+ ![React] (https://img.shields.io/badge/-React-222429.svg?logo=react&style=flat)
+ ![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)
+
    
 ### Infrastructure and DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
