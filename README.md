@@ -52,7 +52,7 @@
     
 ### Libraries and Frameworks
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
- ![React] (https://img.shields.io/badge/-React-222429.svg?logo=react&style=flat)
+ ![React](https://img.shields.io/badge/-React-222429.svg?logo=react&style=flat)
  ![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)
 
    
