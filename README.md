@@ -29,7 +29,7 @@
 
 ## Tech Knowdledge
 
-<img align='right' src="https://media.giphy.com/media/8u78PzvOhGEINjsEoM/giphy-downsized-large.gif" width="200">
+
 
 ### Languages
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
