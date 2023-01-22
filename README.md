@@ -38,6 +38,7 @@
   ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CCS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/-Sass-000?&logo=Sass&labelColor=000)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-flat&logo=c-sharp&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
   
     
@@ -46,9 +47,9 @@
  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
  ![React](https://img.shields.io/badge/-React-222429.svg?logo=react&style=flat)
  ![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)
- ![VueJS](https://img.shields.io/badge/-Vue-5f5f5f?style=flat&logo=vue.js&labelColor=ffffff)
- ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white)
- ![MUI](https://img.shields.io/badge/-MUI-084B8E.svg?logo=mui&style=flat)
+ ![Material UI](https://img.shields.io/badge/-MUI-084B8E.svg?logo=mui&style=flat)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+ ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
  ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack&style=flat&labelColor=000)
  
 ### Databases & Cloud
