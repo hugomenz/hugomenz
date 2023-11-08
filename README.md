@@ -28,49 +28,48 @@
 
 ## Tech Knowledge
 
-### UX/UI
-
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-
 ### Frontend Development
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![SASS](https://img.shields.io/badge/-Sass-000?&logo=Sass&labelColor=000)
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+![SASS](https://img.shields.io/badge/-Sass-000?&logo=Sass&labelColor=000)
 ![Material UI](https://img.shields.io/badge/-MUI-084B8E.svg?logo=mui&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-# Backend
+### UX/UI Design
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-5f5f5f?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-### Backend as a Service (BaaS)
-
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
-
-### Cloud Services
-
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=google-cloud)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
-
-### DevOps & Collaboration
+### Version Control & Project Management
 
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D4?style=flat&logo=azure-devops)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-### Other Technologies and tools
+### Scripting & Automation
 
-![React](https://img.shields.io/badge/-React-222429.svg?logo=react&style=flat)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Server-Side & Database Technologies
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-5f5f5f?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+
+### Backend as a Service (BaaS) & Cloud Services
+
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=google-cloud)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+
+### Development Tools & Environments
+
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/-Docker-5f5f5f?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 </br>
 
