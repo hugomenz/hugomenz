@@ -17,66 +17,66 @@
 <img src="https://komarev.com/ghpvc/?username=hugomenz&label=Hugo's%20Profile%20Views&color=0E0383&style=for-the-badge"/> 
 </p>
   
-## About Me 
+## About Me
 
 - 💼 Ex-Mechanical Designer Engineer
 - 💻 Passionate about programming (or atleast trying it)
-- 🎼 I play some instruments like Piano, <a href="https://en.wiktionary.org/wiki/timple" target="_blank">Timple</a>  and [Tres Cubano](https://en.wikipedia.org/wiki/Tres_(instrument)) in my free time
+- 🎼 I play some instruments like Piano, <a href="https://en.wiktionary.org/wiki/timple" target="_blank">Timple</a> and [Tres Cubano](<https://en.wikipedia.org/wiki/Tres_(instrument)>) in my free time
 - 🎓 Front End expert on progress
 
 </br>
 
+## Tech Knowledge
 
-## Tech Knowdledge
+### UX/UI
 
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
+### Frontend Development
 
-### Languages
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CCS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![SASS](https://img.shields.io/badge/-Sass-000?&logo=Sass&labelColor=000)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-flat&logo=c-sharp&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
-  
-    
-### Frameworks, Platforms and Libraries
- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
- ![React](https://img.shields.io/badge/-React-222429.svg?logo=react&style=flat)
- ![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)
- ![Material UI](https://img.shields.io/badge/-MUI-084B8E.svg?logo=mui&style=flat)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
- ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
- ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack&style=flat&labelColor=000)
- 
-### Databases & Cloud
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-5f5f5f?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![SASS](https://img.shields.io/badge/-Sass-000?&logo=Sass&labelColor=000)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+![Material UI](https://img.shields.io/badge/-MUI-084B8E.svg?logo=mui&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
+# Backend
 
-### Enviroment, IDEs and Tools
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Docker](https://img.shields.io/badge/-Docker-5f5f5f?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)
-  ![](https://img.shields.io/badge/Windows-0078D6?style=flate&logo=windows&logoColor=white)
-  ![](https://img.shields.io/badge/Linux-FCC624?style=flate&logo=linux&logoColor=black)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-5f5f5f?style=flat&logo=virtualbox&labelColor=213a61)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-5f5f5f?style=flat&logo=jupyter&labelColor=ffffff)
-  ![Slack](https://img.shields.io/badge/-Slack-5f5f5f?style=flat&logo=slack&logoColor=ffffff&labelColor=0078D6)
-  
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-5f5f5f?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+### Backend as a Service (BaaS)
+
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+
+### Cloud Services
+
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=google-cloud)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+
+### DevOps & Collaboration
+
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D4?style=flat&logo=azure-devops)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+### Other Technologies and tools
+
+![React](https://img.shields.io/badge/-React-222429.svg?logo=react&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-5f5f5f?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 </br>
 
- 
 </br>
 
-## GitHub Analytics 
+## GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/hugomenz">
