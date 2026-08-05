@@ -16,7 +16,7 @@ This ledger records only reversible GitHub metadata changes. No repository sourc
 | hugomenz/automation-portfolio | Homepage | Empty | https://hugomenz.github.io/automation-portfolio/ | [Repository About block](https://github.com/hugomenz/automation-portfolio) | Clear homepage |
 | hugomenz/automation-portfolio | Topics | Empty | automation, workflow-automation, n8n, typescript, industrial-automation, human-in-the-loop, synthetic-data | [Repository topics](https://github.com/hugomenz/automation-portfolio) | Remove topics |
 | hugomenz/bom-builder | Description | Empty | BOM builder for mechanical assemblies with CSV import/export and PDF generation. | [Repository About block](https://github.com/hugomenz/bom-builder) | Clear description |
-| hugomenz/bom-builder | Homepage | Empty | https://hugomenz.github.io/bom-builder/bom-builder/ | [Repository About block](https://github.com/hugomenz/bom-builder) | Clear homepage |
+| hugomenz/bom-builder | Homepage | Empty | https://hugomenz.github.io/bom-builder/ | [Repository About block](https://github.com/hugomenz/bom-builder) | Clear homepage |
 | hugomenz/bom-builder | Topics | Empty | bill-of-materials, bom, mechanical-engineering, angular, typescript, csv, industrial-automation | [Repository topics](https://github.com/hugomenz/bom-builder) | Remove topics |
 | hugomenz/ProcureFlow | Description | Empty | Proof-of-concept Angular/Nx workspace for BOM, purchasing and delivery control in custom machinery projects. | [Repository About block](https://github.com/hugomenz/ProcureFlow) | Clear description |
 | hugomenz/ProcureFlow | Homepage | Empty | Unchanged; no public demo verified | [Repository About block](https://github.com/hugomenz/ProcureFlow) | N/A |
@@ -32,6 +32,8 @@ This ledger records only reversible GitHub metadata changes. No repository sourc
 | github.com/hugomenz pinned repositories | wmt_data; smartworks-project-management-tool; hopiumfolio; MasterFront-LemonCode; hugomenz.github.io; bom-builder | automation-landing; automation-portfolio; bom-builder; ProcureFlow; smartworks-project-management-tool | [Public profile](https://github.com/hugomenz) | Re-select the previous repositories in Customize your pins |
 
 The live profile may render the same membership in a different display order after save; membership is the authoritative change recorded here.
+
+The BOM Builder homepage uses the canonical route `https://hugomenz.github.io/bom-builder/`; in the browser it redirects to `/bom-builder/bom-builder/` while serving the Stüli Builder page. The direct final route alone returns a GitHub Pages 404.
 
 ## Intentionally unchanged / boundary
 
