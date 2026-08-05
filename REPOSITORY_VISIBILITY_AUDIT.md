@@ -29,7 +29,7 @@ Scope: public GitHub profile, public repositories, profile README, pins, descrip
 
 ## Metadata recommendations
 
-These are the proposed descriptions, topics and homepage URLs for the most relevant public repositories. Changes are intentionally limited to reversible repository metadata.
+The following descriptions, topics and homepage URLs were applied to the most relevant public repositories. Changes were intentionally limited to reversible repository metadata.
 
 | Repository | Description | Topics | Homepage |
 | --- | --- | --- | --- |
@@ -51,5 +51,5 @@ These are the proposed descriptions, topics and homepage URLs for the most relev
 ## Exact blockers and limitations
 
 - GitHub’s connected repository tools can create the profile branch, update files and open the draft PR, but they do not expose repository metadata or pin-selection mutations.
-- Applying the proposed descriptions/topics/homepage URLs and pin set requires the GitHub repository settings/profile UI. These are reversible and authorized by A07, but the account-level website field remains outside the repository-only scope.
+- The descriptions/topics/homepage URLs and pin set were applied through the GitHub repository settings/profile UI. These changes are reversible and authorized by A07; the account-level website field remains outside the repository-only scope.
 - The profile page’s current account website field still points to `https://mnf.red/hugomenz`; it should be reviewed separately before changing it to the canonical site.
