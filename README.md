@@ -1,86 +1,51 @@
-<h3 align="center">
-  Hola!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I am Hugo Martín Méndez
-</h3>
-<img align='right' src="https://media.giphy.com/media/nlOKVAhVazSMzLvtIj/giphy.gif" width="200">
-<p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com/?lines=Future%20FrontEnd%20Developer%20and...;EX%20Mechanical%20Design%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f0C2D48&vCenter=true&size=22"></a>
-</p>
+<div align="center">
+  <img src="./assets/hugo-industrial-automation-profile.png" alt="Editorial visual combining mechanical design and industrial automation software" width="180" />
 
-<!-- nlOKVAhVazSMzLvtIj-->
+  <h1>Hugo Menz</h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/hugomartin-menz/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.xing.com/profile/Hugo_MartinMendez"><img src="https://img.shields.io/badge/-Xing-126567?style=for-the-badge&logo=xing&logoColor=green"/></a>
-<a href="mailto:hugomartin.menz@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
-<img src="https://komarev.com/ghpvc/?username=hugomenz&label=Hugo's%20Profile%20Views&color=0E0383&style=for-the-badge"/> 
-</p>
-  
-## About Me
+  <p><strong>Industrial automation + software from Stuttgart, Germany.</strong><br />
+  I turn machinery and operational context into inspectable systems with clear human control.</p>
 
-- 💼 Ex-Mechanical Designer Engineer
-- 💻 Passionate about programming (or atleast trying it)
-- 🎼 I play some instruments like Piano, <a href="https://en.wiktionary.org/wiki/timple" target="_blank">Timple</a> and [Tres Cubano](<https://en.wikipedia.org/wiki/Tres_(instrument)>) in my free time
-- 🎓 Front End expert on progress
+  <p>
+    <a href="https://www.hugomenz.de/">Industrial automation</a> ·
+    <a href="https://hugomenz.github.io/automation-portfolio/">Working portfolio</a> ·
+    <a href="https://github.com/hugomenz?tab=repositories">Repositories</a>
+  </p>
 
-</br>
+  <p><sub>MECHANICAL CONTEXT · WORKFLOW AUTOMATION · HUMAN-CONTROLLED AI</sub></p>
+</div>
 
-## Tech Knowledge
+---
 
-### Frontend Development
+## The combination
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
-![SASS](https://img.shields.io/badge/-Sass-000?&logo=Sass&labelColor=000)
-![Material UI](https://img.shields.io/badge/-MUI-084B8E.svg?logo=mui&style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+Approximately eight years in special-purpose machinery and industrial automation, with an engineering background in mechanical design, bills of materials, supplier and purchasing coordination, project context, and collaboration across customers, engineering, assembly and electrical teams.
 
-### UX/UI Design
+I now build with TypeScript, Angular, APIs, webhooks, n8n and Make. AI may extract, classify, compare, summarize or draft; consequential decisions stay reviewable and human-controlled.
 
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+## Evidence you can inspect
 
-### Version Control & Project Management
+These are independent prototypes and reference systems. Every item carries an explicit implementation status.
 
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D4?style=flat&logo=azure-devops)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+| System | Evidence | Status |
+| --- | --- | --- |
+| Industrial automation / RFQ | [Site](https://www.hugomenz.de/) · [source](https://github.com/hugomenz/automation-landing) | Built and testable |
+| Automation portfolio | [Open the portfolio](https://hugomenz.github.io/automation-portfolio/) · [source](https://github.com/hugomenz/automation-portfolio) | Built and testable |
+| BOM Builder | [Open the demo](https://hugomenz.github.io/bom-builder/) · [source](https://github.com/hugomenz/bom-builder) | Built and testable |
+| Procurement control | [ProcureFlow source](https://github.com/hugomenz/ProcureFlow) | Mocked adapter |
+| RFQ Copilot | [Repository](https://github.com/hugomenz/Menz-Automation-RFQ-Copilot) | Planned |
 
-### Scripting & Automation
+## What matters in the build
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- System of record first; inputs, configuration and exceptions stay visible.
+- Correlation IDs, idempotency, retries and audit history are treated as product behavior.
+- Test accounts, mock adapters and synthetic fixtures come before live integrations.
+- A human approval or handoff remains at consequential boundaries.
 
-### Server-Side & Database Technologies
+## Current toolset
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-5f5f5f?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+`TypeScript` `Angular` `APIs` `webhooks` `n8n` `Make` `GitHub` `Node.js` `SQL` · mechanical engineering workflows
 
-### Backend as a Service (BaaS) & Cloud Services
+I’m based in Stuttgart and building an independent portfolio of truthful, inspectable automation systems. The visual above is an editorial profile asset, not a portrait.
 
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=google-cloud)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
-
-### Development Tools & Environments
-
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-5f5f5f?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-</br>
-
-</br>
-
-## GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/hugomenz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomenz&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hugomenz&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hugomenz&theme=merko"/>
-</a>
-</p>
+[Repository visibility audit](REPOSITORY_VISIBILITY_AUDIT.md) · [Metadata change ledger](A07_METADATA_CHANGE_LEDGER.md)
