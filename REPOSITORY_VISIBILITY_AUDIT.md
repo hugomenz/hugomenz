@@ -11,6 +11,7 @@ Scope: public GitHub profile, public repositories, profile README, pins, descrip
 - Existing pins were `wmt_data`, `smartworks-project-management-tool`, `hopiumfolio`, `MasterFront-LemonCode`, `hugomenz.github.io` and `bom-builder`. Most were older, generic, unrelated, or weakly described for an industrial automation buyer.
 - The public RFQ-Copilot repository exists but is empty. It is therefore not presented as implemented evidence.
 - No public repository was found to be archived during this audit. No repository was archived or deleted.
+- The redesigned profile README uses `assets/hugo-industrial-automation-profile.png`, a generated editorial visual explicitly labelled as an asset rather than a portrait.
 
 ## Recommended visibility set
 
