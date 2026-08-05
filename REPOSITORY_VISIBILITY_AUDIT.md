@@ -35,7 +35,7 @@ The following descriptions, topics and homepage URLs were applied to the most re
 | --- | --- | --- | --- |
 | automation-landing | Industrial automation site for machinery manufacturers: internal RFQ qualification, traceable inputs and human review. | `angular`, `typescript`, `industrial-automation`, `machinery`, `rfq`, `webhooks`, `n8n` | https://www.hugomenz.de/ |
 | automation-portfolio | Inspectable automation portfolio with workflow explanations, implementation-status labels and synthetic/test boundaries. | `automation`, `workflow-automation`, `n8n`, `typescript`, `industrial-automation`, `human-in-the-loop`, `synthetic-data` | https://hugomenz.github.io/automation-portfolio/ |
-| bom-builder | BOM builder for mechanical assemblies with CSV import/export and PDF generation. | `bill-of-materials`, `bom`, `mechanical-engineering`, `angular`, `typescript`, `csv`, `industrial-automation` | https://hugomenz.github.io/bom-builder/bom-builder/ |
+| bom-builder | BOM builder for mechanical assemblies with CSV import/export and PDF generation. | `bill-of-materials`, `bom`, `mechanical-engineering`, `angular`, `typescript`, `csv`, `industrial-automation` | https://hugomenz.github.io/bom-builder/ |
 | ProcureFlow | Proof-of-concept Angular/Nx workspace for BOM, purchasing and delivery control in custom machinery projects. | `procurement`, `bill-of-materials`, `purchase-orders`, `industrial-automation`, `angular`, `nx`, `prototype`, `mechanical-engineering` | None; no public demo verified |
 | smartworks-project-management-tool | Historical project-control prototype for mechanical design teams using React and .NET. | `mechanical-engineering`, `project-management`, `react`, `dotnet`, `prototype` | None; no public demo verified |
 
@@ -43,7 +43,7 @@ The following descriptions, topics and homepage URLs were applied to the most re
 
 - `https://www.hugomenz.de/` → reachable in the browser; title: “Angebotsprozess im Maschinenbau automatisieren | Hugo Menz”.
 - `https://hugomenz.github.io/automation-portfolio/` → reachable in the browser; title: “Hugo Menz · Sistemas que funcionan”.
-- `https://hugomenz.github.io/bom-builder/` → redirects to `/bom-builder/bom-builder/`; the final page is reachable but currently has the title “Smartworks”. The profile now links to the observed final route and the repository metadata recommendation uses that route.
+- `https://hugomenz.github.io/bom-builder/` → the canonical route redirects in the browser to `/bom-builder/bom-builder/` but serves the Stüli Builder page. The direct final URL itself returns a GitHub Pages 404, so only the original canonical route is used in profile links and repository metadata.
 - The selected GitHub repository links resolve to their public repositories.
 - `https://mnf.red/hugomenz` → reachable and currently presents a CV page. It is not used in the rewritten profile README; changing the GitHub account website field is outside this repository-only change.
 - LinkedIn and Xing links were left read-only and unchanged.
