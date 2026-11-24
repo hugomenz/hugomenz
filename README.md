@@ -1,86 +1,34 @@
-<h3 align="center">
-  Hola!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I am Hugo Martín Méndez
-</h3>
-<img align='right' src="https://media.giphy.com/media/nlOKVAhVazSMzLvtIj/giphy.gif" width="200">
-<p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com/?lines=Future%20FrontEnd%20Developer%20and...;EX%20Mechanical%20Design%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f0C2D48&vCenter=true&size=22"></a>
-</p>
-
-<!-- nlOKVAhVazSMzLvtIj-->
+<h1 align="center">Hugo Martin</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hugomartin-menz/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.xing.com/profile/Hugo_MartinMendez"><img src="https://img.shields.io/badge/-Xing-126567?style=for-the-badge&logo=xing&logoColor=green"/></a>
-<a href="mailto:hugomartin.menz@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
-<img src="https://komarev.com/ghpvc/?username=hugomenz&label=Hugo's%20Profile%20Views&color=0E0383&style=for-the-badge"/> 
+  Angular development · GitHub Copilot · Process automation
 </p>
-  
-## About Me
-
-- 💼 Ex-Mechanical Designer Engineer
-- 💻 Passionate about programming (or atleast trying it)
-- 🎼 I play some instruments like Piano, <a href="https://en.wiktionary.org/wiki/timple" target="_blank">Timple</a> and [Tres Cubano](<https://en.wikipedia.org/wiki/Tres_(instrument)>) in my free time
-- 🎓 Front End expert on progress
-
-</br>
-
-## Tech Knowledge
-
-### Frontend Development
-
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
-![SASS](https://img.shields.io/badge/-Sass-000?&logo=Sass&labelColor=000)
-![Material UI](https://img.shields.io/badge/-MUI-084B8E.svg?logo=mui&style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-### UX/UI Design
-
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-
-### Version Control & Project Management
-
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D4?style=flat&logo=azure-devops)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-### Scripting & Automation
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### Server-Side & Database Technologies
-
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-5f5f5f?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-
-### Backend as a Service (BaaS) & Cloud Services
-
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=google-cloud)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
-
-### Development Tools & Environments
-
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-5f5f5f?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-</br>
-
-</br>
-
-## GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/hugomenz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomenz&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hugomenz&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hugomenz&theme=merko"/>
-</a>
+  <a href="https://www.hugomenz.de/"><img alt="Website" src="https://img.shields.io/badge/Website-456B87?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/hugomartin-menz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-456B87?style=flat-square" /></a>
+  <a href="mailto:hugomartin.menz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-E5C66D?style=flat-square" /></a>
 </p>
+
+## About me
+
+I am a software developer with a background in mechanical engineering. As a UX Engineer at EPLAN, I work on an Angular component library and tools for developers.
+
+Alongside my main role, I offer technical services to small businesses and development teams. My focus is Angular applications, practical automation and a better Developer Experience.
+
+## How I can help
+
+- **Angular applications and internal tools:** build web applications around a clear business need.
+- **Angular component libraries:** implement existing design systems and reusable components in Angular.
+- **GitHub Copilot and agent orchestration:** create custom skills and agents, coordinate their work and automate recurring development tasks to improve Developer Experience.
+- **Process automation:** connect existing tools through APIs and build workflows with n8n, Make or Power Automate.
+
+## How I work
+
+We start with a specific problem and agree on the project scope. I focus on the technical implementation, clear documentation and tools that fit the task. I evaluate new features and use them when they add practical value.
+
+For project enquiries, visit [hugomenz.de](https://www.hugomenz.de/), connect on [LinkedIn](https://www.linkedin.com/in/hugomartin-menz/) or [send me an email](mailto:hugomartin.menz@gmail.com).
+
+## A little beyond code
+
+In my free time, I play piano, [timple](https://en.wiktionary.org/wiki/timple) and tres cubano.
