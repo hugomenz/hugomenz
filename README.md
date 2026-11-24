@@ -1,7 +1,7 @@
 <h1 align="center">Hugo Martin</h1>
 
 <p align="center">
-  Angular development · GitHub Copilot · Process automation
+  AI agents · MCP and API integration · Process automation
 </p>
 
 <p align="center">
@@ -14,20 +14,20 @@
 
 I am a software developer with a background in mechanical engineering. As a UX Engineer at EPLAN, I work on an Angular component library and tools for developers.
 
-Alongside my main role, I offer technical services to small businesses and development teams. My focus is Angular applications, practical automation and a better Developer Experience.
+Alongside my main role, I offer IT services to small businesses and development teams: AI agents, process automation and custom web applications. I connect existing tools and data through MCP and APIs, and help teams improve their development workflows.
 
 ## How I can help
 
-- **Angular applications and internal tools:** build web applications around a clear business need.
-- **Angular component libraries:** implement existing design systems and reusable components in Angular.
-- **GitHub Copilot and agent orchestration:** create custom skills and agents, coordinate their work and automate recurring development tasks to improve Developer Experience.
+- **AI agents, MCP and API integration:** set up agents for specific tasks and connect them to the tools and data they need. Define custom skills and clear handovers between agents.
 - **Process automation:** connect existing tools through APIs and build workflows with n8n, Make or Power Automate.
+- **Custom web applications and internal tools:** build with Angular, connect APIs and implement existing design systems as reusable Angular components.
+- **AI-assisted development:** adapt GitHub Copilot to your repository with project knowledge, custom skills, agents and MCP tools. Coordinate recurring development tasks to improve Developer Experience.
 
 ## How I work
 
 We start with a specific problem and agree on the project scope. I focus on the technical implementation, clear documentation and tools that fit the task. I evaluate new features and use them when they add practical value.
 
-For project enquiries, visit [hugomenz.de](https://www.hugomenz.de/), connect on [LinkedIn](https://www.linkedin.com/in/hugomartin-menz/) or [send me an email](mailto:hugomartin.menz@gmail.com).
+For an overview, see [my services](https://www.hugomenz.de/en/services/). For project enquiries, connect on [LinkedIn](https://www.linkedin.com/in/hugomartin-menz/) or [send me an email](mailto:hugomartin.menz@gmail.com).
 
 ## A little beyond code
 
